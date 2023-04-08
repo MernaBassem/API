@@ -4,5 +4,4 @@ tensorflow==2.3.0
 pillow
 numpy
 protobuf==3.20.*
-cv2
-!pip install opencv-python-headless
+opencv-python-headless
